@@ -1,4 +1,5 @@
-QuTiP Lectures as IPython notebooks
+this repository is from https://github.com/jrjohansson/qutip-lectures.git
+[QuTiP Lectures as IPython notebooks](https://github.com/jrjohansson/qutip-lectures.git)
 ===================================
 
 Quantum mechanics and quantum optics lectures and demonstrations using QuTiP. For more information about QuTiP, see
