@@ -34,3 +34,7 @@ Use the following links:
 * [Lecture-12 Decay into a squeezed vacuum field](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-12-Decay-into-a-squeezed-vacuum-field.ipynb)
 * [Lecture-14 Kerr nonlinearities](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-14-Kerr-nonlinearities.ipynb)
 * [Lecture-16 Gallery of Wigner functions](http://nbviewer.ipython.org/urls/raw.github.com/jrjohansson/qutip-lectures/master/Lecture-16-Gallery-of-Wigner-functions.ipynb)
+
+
+gitpod jupyter template from https://github.com/gitpod-samples/template-jupyter-notebook.git
+
